@@ -1,0 +1,4 @@
+hi
+welcome to git
+aws workspace
+hello world
